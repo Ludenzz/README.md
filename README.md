@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugursaricam&label=Profile%20views&color=c8b90e&style=flat-square" alt="ugursaricam" /> </p>
 <h1 align="center">Hi 👋, I'm Ugur Saricam 🚀</h1>
 <h3 align="center">a scientist who is passionate about data</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ugursaricam&label=Profile%20views&color=c8b90e&style=flat-square"alt="ugursaricam"/> </p>
 
 - 🌱 I’m currently learning **machine learning and deep learning**
 
