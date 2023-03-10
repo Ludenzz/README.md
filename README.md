@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/1039166278151192680/1083683675843080253/dcr8hfu-3a0066f1-8a1a-46ce-bcba-bb1e4fdd3c21.gif" width="100%"/>
 <h1 align="center">Hi 👋, I'm Ugur Saricam 🚀</h1>
 <h3 align="center">a scientist who is passionate about data</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ugursaricam&label=Profile%20views&color=c8b90e&style=flat-square"alt="ugursaricam"/> </p>
