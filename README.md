@@ -3,9 +3,9 @@
 <h3 align="center">a scientist who is passionate about data</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ugursaricam&label=Profile%20views&color=c8b90e&style=flat-square"alt="ugursaricam"/> </p>
 
-- 🌌 I’m currently learning **machine learning and deep learning**
+- 🌌 I’m am interested in **Python, Data Science, Artificial Intelligence, Machine Learning, Deep Learning**
 
-- 🐱‍🏍 How to reach me **ugursrcm[at]gmail[dot]com**
+- 🐱‍🏍 How to reach me **ugursrcm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
